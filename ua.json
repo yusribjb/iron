@@ -1,0 +1,378 @@
+[{ 
+"ua":"Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+"brand":"Samsung", 
+"model":"SM-G570M",
+"os":"7"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung", 
+"model":"SM-G960U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G965U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G965U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-A102U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; LM-X220) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36",
+"brand":"LG",
+"model":"X220",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-A205U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
+"brand":"LG",
+"model":"Q720",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G955U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; LM-X420) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36",
+"brand":"LG",
+"model":"X420",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G960U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G975U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.0 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G970U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G975U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SM-G955U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G955U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-N975U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-N960U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G975U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36",
+"brand":"LG",
+"model":"Q720",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-A102U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G960U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; moto g(7) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36",
+"brand":"Motorola",
+"model":"Moto G",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; moto g(6)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36",
+"brand":"Motorola",
+"model":"Moto G",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-A205U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 8.1.99; Pixel XL Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.53 Mobile Safari/537.36",
+"brand":"Google",
+"model":"Pixel XL",
+"os":"8"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; Pixel XL Build/PPP3.180510.008) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile Safari/537.36",
+"brand":"Google",
+"model":"Pixel XL",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; MI CC 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"MI CC 9",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"ASUS",
+"model":"X00TD",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; U; Android 9.0; en-US; Redmi Note 8 Build/PKQ1.190616.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/12.12.9.1226 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"Redmi Note 8",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Max Pro M1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"Max Pro M1",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; SH-01K Build/S2170) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.6 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"SH-01K",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36",
+"brand":"ASUS",
+"model":"X00TD",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; U; Android 9.0; en-ru; Redmi Note 4X Build/PKQ1.181007.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/71.0.3578.141 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.8.5",
+"brand":"Xiaomi",
+"model":"Redmi Note 4X",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.117 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"Redmi Note 5",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"Redmi Note 6 Pro",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Max Pro M1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"Max Pro M1",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"MI 8 SE",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Z832 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Mobile Safari/537.36",
+"brand":"ASUS",
+"model":"Z832",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Pixel 2 XL Build/PPP4.180612.004; Windows 10 Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3552.0 Mobile Safari/537.36",
+"brand":"Google",
+"model":"Pixel 2 XL",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; ASUS_X00TD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
+"brand":"ASUS",
+"model":"X00TD",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; MI 9 SE Build/PKQ1.181121.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"MI 9 SE",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0 ByJr; XT1802) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36",
+"brand":"ASUS",
+"model":"XT1802",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; TR10RS1 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36",
+"brand":"Genuine",
+"model":"TR10RS1",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; J7 Prime [9] Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"J7 Prime",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Lenovo L78011 Build/PKQ1.190127.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.134 Mobile Safari/537.36 LeBrowser/8.3.0",
+"brand":"Lenovo",
+"model":"L78011",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Galaxy j5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-J500H",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; POCOPHONE F1 Build/PKQ1.180729.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36",
+"brand":"Xiaomi",
+"model":"POCOPHONE F1",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Z832 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Mobile Safari/537.36",
+"brand":"ASUS",
+"model":"Z832",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; LM-V409N Build/PKQ1.190202.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Crosswalk/20.50.533.61 Mobile Safari/537.36 NAVER(inapp; search; 590; 8.8.6)",
+"brand":"LG",
+"model":"LM-V409N",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; Micromax Q331) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36",
+"brand":"Micromax",
+"model":"Q331",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; SM-G965U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36",
+"brand":"Samsung",
+"model":"SM-G965U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; ONEPLUS A6000 Build/PKQ1.180716.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.134 Mobile Safari/537.36 LeBrowser/8.2.5",
+"brand":"ONEPLUS",
+"model":"A6000",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; L3 Build/N6F26Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.100 Mobile Safari/537.36 Mb2345Browser/9.1oem",
+"brand":"LG",
+"model":"L3",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; PLUS Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3163.98 Mobile Safari/537.36",
+"brand":"Google",
+"model":"PLUS",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0; SM-G955U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"SM-G955U",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9; CPH1979) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36",
+"brand":"Oppo",
+"model":"CPH1979",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 9.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36",
+"brand":"Google",
+"model":"Nexus 5X",
+"os":"9"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"SM-A205U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"SM-A102U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"SM-G960U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"SM-N960U",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; LM-Q720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"LM-Q720",
+"os":"10"
+},
+{
+"ua":"Mozilla/5.0 (Linux; Android 10; LM-Q710(FGN)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.117 Mobile Safari/537.36",
+"brand":"SAMSUNG",
+"model":"LM-Q710",
+"os":"10"
+}]
